@@ -1,0 +1,37 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altimg": "plan",
+      "title": "Plan 'Usual'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": "10"
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "elite",
+      "title": "Plan 'Premium'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": "22"
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "gold",
+      "title": "Plan 'VIP'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": "35"
+    }
+  ],
+  "request": [
+    {
+      "name": "My fifth news",
+      "phone": "+998938086060",
+      "id": 1
+    },
+    {
+      "name": "Og'abek",
+      "phone": "1111",
+      "id": 2
+    }
+  ]
+}
